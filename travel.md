@@ -6,12 +6,12 @@
 - umbrella
 
 ## Electronics
-- Phone
-- Laptop
-- Kindle
-- Bluetooth noise-cancelling headphones
+- phone
+- laptop
+- kindle
+- bluetooth noise-cancelling headphones
 - USB-C charger
-- Multi-region adapter
+- multi-region adapter
 
 ## Speaker Stuff
 - USB-C to HDMI adapter
@@ -23,8 +23,6 @@
 - toothpaste
 - deodorant
 - contacts+solution
-- travel shampoo
-- travel soap
 
 ## Clothes
 - up to 6 days underwear & socks
