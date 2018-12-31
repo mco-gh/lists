@@ -27,7 +27,7 @@
 
 ## Clothes
 - up to 6 days underwear & socks
-- up to 6 t shirts
+- up to 6 t-shirts
 - 2-3 jumpers/nice shirts
 - 2 pairs of jeans (one nice enough to go out in)
 - 2 pairs of shorts (weather permitting)
