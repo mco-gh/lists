@@ -4,6 +4,7 @@
 - keys
 - meds
 - umbrella
+- notebook & pens
 
 ## Electronics
 - phone
@@ -12,6 +13,8 @@
 - bluetooth noise-cancelling headphones
 - USB-C charger
 - multi-region adapter
+- screen cleaner & wipe
+- portable battery
 
 ## Speaker Stuff
 - USB-C to HDMI adapter
