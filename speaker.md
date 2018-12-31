@@ -1,1 +1,11 @@
-new
+- laptop charged
+- laptop chargING
+- mic'ed up
+- projector setup and looking good
+- audio connected (if needed)
+- all demos verified before talk
+- all Google tabs closed
+- all talk tabs open and ready to show
+- timer setup and visible
+- hair not too crazy
+- use bathroom before talk
