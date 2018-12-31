@@ -4,7 +4,7 @@
 - meds
 - umbrella
 
-# Electronics
+## Electronics
 - Phone
 - Laptop
 - Kindle
@@ -25,7 +25,7 @@
 - travel shampoo
 - travel soap
 
-# Clothes
+## Clothes
 - up to 6 days underwear & socks
 - up to 6 t shirts
 - 2-3 jumpers/nice shirts
