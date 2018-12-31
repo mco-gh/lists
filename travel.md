@@ -22,6 +22,7 @@
 - toothbrush
 - toothpaste
 - deodorant
+- disposable razor
 - contacts+solution
 
 ## Clothes
