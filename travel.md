@@ -1,5 +1,6 @@
 ## Essentials
 - wallet
+- passport
 - keys
 - meds
 - umbrella
