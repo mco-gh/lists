@@ -9,4 +9,4 @@
 - all talk tabs open and ready to show
 - pomodoro timer setup and visible
 - hair not too crazy
-- use bathroom before talk
+- use bathroom before talk (mic off! :)
