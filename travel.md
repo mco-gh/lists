@@ -1,10 +1,14 @@
 ## Essentials
+- [Pakt bag](https://paktbags.com/)
 - wallet
 - passport
 - keys
 - meds
 - umbrella
 - notebook & pens
+- minimalist bag
+- laundry bag
+- bullet journal and two erasable pens
 
 ## Electronics
 - phone
@@ -12,14 +16,18 @@
 - kindle
 - bluetooth noise-cancelling headphones
 - USB-C charger
+- ethernet cable and adapter to USB-C
 - multi-region adapter
 - screen cleaner & wipe
 - portable battery
 
 ## Speaker Stuff
+- demo ready w/ backup plan for no internet
 - USB-C to HDMI adapter
 - USB-C to VGA adapter
 - Logitech Spotlight
+- biz cards
+- giveaways
 
 ## Grooming
 - toothbrush
