@@ -4,8 +4,9 @@
 - projector setup and looking good
 - audio connected (if needed)
 - all demos verified before talk
+- backup plan for slides AND demos
 - all Google tabs closed
 - all talk tabs open and ready to show
-- timer setup and visible
+- pomodoro timer setup and visible
 - hair not too crazy
 - use bathroom before talk
