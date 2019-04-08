@@ -1,4 +1,4 @@
-# Some of my favorite videos
+# My Favorite Videos
 
 * [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 * [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
