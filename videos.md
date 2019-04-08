@@ -7,3 +7,5 @@
 * [Carl Sagan - Pale Blue Dot](https://www.youtube.com/watch?v=wupToqz1e2g)
 * [Eddie Woo - Mathematics is the sense you never knew you had](https://www.youtube.com/watch?v=PXwStduNw14)
 * [Sal Khan - Let's use video to reinvent education](https://www.youtube.com/watch?v=nTFEUsudhfs)
+* [Jeff Bezos - Princeton Graduation Speech](https://www.youtube.com/watch?v=k315nJ_CK9I)
+* [David Foster Wallace - This is Water](https://www.youtube.com/watch?v=8CrOL-ydFMI)
