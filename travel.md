@@ -1,12 +1,11 @@
 ## Essentials
-- [Pakt bag](https://paktbags.com/)
+- Pakt bag
 - wallet
 - passport
 - keys
 - meds
 - umbrella
 - notebook & pens
-- minimalist bag
 - laundry bag
 - bullet journal and two erasable pens
 
