@@ -23,4 +23,4 @@
 * [Celeste Headley - 10 Ways to Have a Better Conversation](https://www.youtube.com/watch?v=R1vskiVDwl4)
 * [Bill Murray - On Being Present](https://www.youtube.com/watch?v=o9TvFkiLLMo)
 * [Nickolas Means - How to Crash an Airplane](https://www.youtube.com/watch?v=S2FUSr3WlPk)
-* [Jake Archibald - ](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+* [Jake Archibald - In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
