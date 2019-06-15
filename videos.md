@@ -19,7 +19,7 @@
 * [Casey Connor - Music Theory Distilled](https://www.youtube.com/watch?v=mdEcLQ_RQPY&list=PL618khw0A-t4q9AEsgmfHjqklmkx-PGKq)
 * [Sameer Ajmani - Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
 * [Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
-* [Concurrency is not parallelism](https://vimeo.com/49718712)
+* [Rob Pike - Concurrency is not parallelism](https://vimeo.com/49718712)
 * [Celeste Headley - 10 Ways to Have a Better Conversation](https://www.youtube.com/watch?v=R1vskiVDwl4)
 * [Bill Murray - On Being Present](https://www.youtube.com/watch?v=o9TvFkiLLMo)
 * [Nickolas Means - How to Crash an Airplane](https://www.youtube.com/watch?v=S2FUSr3WlPk)
