@@ -1,5 +1,6 @@
 # My Favorite Videos
 
+* [Derek Sivers - How to Start a Movement](https://www.youtube.com/watch?v=Qu3xpp5BbHU)
 * [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 * [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
 * [Richard Feynman - The Distinction of Past and Future. Part 1](https://www.youtube.com/watch?v=_Kab9dkDZJY)
@@ -25,3 +26,4 @@
 * [Nickolas Means - How to Crash an Airplane](https://www.youtube.com/watch?v=S2FUSr3WlPk)
 * [Jake Archibald - In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [Francois Chollet - The Secrets of Productive Developer Tools](https://www.youtube.com/watch?v=4tO3TfL0QzY)
+* [Andrew Price - The 7 Habits of Highly Effective Artists](https://www.youtube.com/watch?v=Qu3xpp5BbHU)
