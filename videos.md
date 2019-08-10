@@ -27,3 +27,4 @@
 * [Jake Archibald - In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [Francois Chollet - The Secrets of Productive Developer Tools](https://www.youtube.com/watch?v=4tO3TfL0QzY)
 * [Andrew Price - The 7 Habits of Highly Effective Artists](https://www.youtube.com/watch?v=Qu3xpp5BbHU)
+* [Guillaume Laforge - Billions of lines of code in a single repository, SRSLY?](https://www.youtube.com/watch?v=yM0GQw1zgrA)
