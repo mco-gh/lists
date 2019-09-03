@@ -1,13 +1,12 @@
 ## Essentials
-- Pakt bag
+- bag
 - wallet
 - passport
 - keys
 - meds
 - umbrella
-- notebook & pens
+- notebook & pen
 - laundry bag
-- bullet journal and two erasable pens
 
 ## Electronics
 - phone
@@ -15,10 +14,9 @@
 - kindle
 - bluetooth noise-cancelling headphones
 - USB-C charger
+- regional adapter
 - ethernet cable and adapter to USB-C
-- multi-region adapter
 - screen cleaner & wipe
-- portable battery
 
 ## Speaker Stuff
 - demo ready w/ backup plan for no internet
