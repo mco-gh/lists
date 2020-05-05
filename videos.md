@@ -28,3 +28,4 @@
 * [Francois Chollet - The Secrets of Productive Developer Tools](https://www.youtube.com/watch?v=4tO3TfL0QzY)
 * [Andrew Price - The 7 Habits of Highly Effective Artists](https://www.youtube.com/watch?v=Qu3xpp5BbHU)
 * [Guillaume Laforge - Billions of lines of code in a single repository, SRSLY?](https://www.youtube.com/watch?v=yM0GQw1zgrA)
+* [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
