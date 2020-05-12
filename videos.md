@@ -1,5 +1,6 @@
 # My Favorite Videos
 
+* [Emotional Eddie Vedder sings Black @ Firenze Rocks](https://www.youtube.com/watch?v=IfmKAkVfvgA)
 * [Paul Davids - The myth of having it all (and needing it all)](https://www.youtube.com/watch?v=U4BGlctQ2Yw)
 * [Derek Sivers - How to Start a Movement](https://www.youtube.com/watch?v=Qu3xpp5BbHU)
 * [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
