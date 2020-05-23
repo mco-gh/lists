@@ -1,6 +1,6 @@
 # My Favorite Videos
 
-* [Emotional Eddie Vedder sings Black @ Firenze Rocks](https://www.youtube.com/watch?v=IfmKAkVfvgA)
+* [Mike Bostock - A Better Way To Write Code](https://www.youtube.com/watch?v=vh_gddKS5OU)
 * [Paul Davids - The myth of having it all (and needing it all)](https://www.youtube.com/watch?v=U4BGlctQ2Yw)
 * [Derek Sivers - How to Start a Movement](https://www.youtube.com/watch?v=Qu3xpp5BbHU)
 * [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
@@ -35,3 +35,5 @@
 * [4D Toys: a box of four-dimensional toys, and how objects bounce and roll in 4D](https://www.youtube.com/watch?v=0t4aKJuKP0Q)
 * [David - MacKay - Lecture 1: Introduction to Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY)
 * [How Does SHA-256 Work?](https://www.youtube.com/watch?v=f9EbD6iY9zI)
+* [Emotional Eddie Vedder sings Black @ Firenze Rocks](https://www.youtube.com/watch?v=IfmKAkVfvgA)
+
