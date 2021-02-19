@@ -1,5 +1,7 @@
 ## Essentials
 - bag
+- masks
+- glasses
 - wallet
 - passport
 - keys
@@ -9,10 +11,12 @@
 - laundry bag
 
 ## Electronics
+- auth device
 - phone
 - laptop
 - kindle
-- bluetooth noise-cancelling headphones
+- bluetooth headphones
+- bluetooth earbuds
 - USB-C charger
 - regional adapter
 - ethernet cable and adapter to USB-C
