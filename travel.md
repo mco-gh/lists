@@ -33,6 +33,8 @@
 ## Grooming
 - toothbrush
 - toothpaste
+- floss
+- aloe
 - deodorant
 - disposable razor
 - contacts+solution
