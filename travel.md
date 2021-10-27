@@ -33,6 +33,7 @@
 ## Grooming
 - toothbrush
 - toothpaste
+- shampoo
 - floss
 - aloe
 - deodorant
