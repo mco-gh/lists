@@ -12,6 +12,7 @@
 
 ## Electronics
 - auth device
+- watch + watch charger
 - phone
 - laptop
 - kindle
