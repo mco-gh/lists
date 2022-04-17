@@ -39,6 +39,7 @@
 - aloe
 - deodorant
 - disposable razor
+- shaving cream
 - contacts+solution
 
 ## Clothes
