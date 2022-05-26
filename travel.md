@@ -1,10 +1,9 @@
 ## Essentials
-- bag
 - masks
 - glasses
 - wallet
-- passport
 - keys
+- passport
 - meds
 - umbrella
 - notebook & pen
@@ -32,6 +31,7 @@
 - giveaways
 
 ## Grooming
+- hairbrush
 - toothbrush
 - toothpaste
 - shampoo
