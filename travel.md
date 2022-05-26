@@ -10,10 +10,9 @@
 - laundry bag
 
 ## Electronics
-- auth device
 - watch + watch charger
 - phone
-- laptop
+- laptop w/ auth device
 - kindle
 - bluetooth headphones
 - bluetooth earbuds
