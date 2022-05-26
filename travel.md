@@ -35,6 +35,7 @@
 - toothbrush
 - toothpaste
 - shampoo
+- leave in conditioner
 - floss
 - aloe
 - deodorant
